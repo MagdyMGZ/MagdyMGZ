@@ -22,7 +22,7 @@
 <details open><summary><h3 align="left">💻 Languages:</h3></summary>‍
 <code><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></code>
 <code><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
-<code><a href="https://www.chipverify.com/tutorials/systemverilog" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/file-icons/source/master/svg/SystemVerilog.svg?sanitize=true" alt="sv" width="40" height="40"/></a></code>
+<code><a href="https://www.chipverify.com/tutorials/systemverilog" target="_blank" rel="noreferrer"><img src="SVicon.png" alt="sv" width="40" height="40"/></a></code>
 <code><a href="https://www.chipverify.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/file-icons/source/master/svg/Verilog.svg?sanitize=true" alt="verilog" width="40" height="40"/></a></code>
 <code><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code> 
 <code><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a></code>
@@ -30,7 +30,8 @@
 <details open><summary><h3 align="left">🔨 Tools / Frameworks / Others:</summary>
 <code><a href="https://eda.sw.siemens.com/en-US/ic/questa/simulation/advanced-simulator/" target="_blank" rel="noreferrer"><img src="QuestaSim.png" alt="questasim" width="40" height="40"/></a></code>
 <code><a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48672827/57464068-a2a35580-72ae-11e9-9d52-7cadbf0cb940.png" alt="xilinix-vivado" width="40" height="40"/></a></code>
-<code><a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"><img src="cadenceicon.png" alt="cadence" width="40" height="40"/></a></code>
+<code><a href="https://www.cadence.com/en_US/home/tools.html" target="_blank" rel="noreferrer"><img src="cadenceicon.png" alt="cadence" width="40" height="40"/></a></code>
+<code><a href="https://vscode.dev/" target="_blank" rel="noreferrer"><img src="VScode.png" alt="vscode" width="40" height="40"/></a></code>
 </details>
   </td>
   </tr>
