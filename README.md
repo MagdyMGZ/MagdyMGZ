@@ -12,7 +12,7 @@
 
 > 🌱 I’m currently learning **Digital Design and Digital Verification**
 
-> 👥 I’m looking to collaborate on **more Digital Design projects** 🔭
+> 👥 I’m looking to collaborate on **more Digital Design and Verification Projects** 🔭
 
 > 📫 How to reach me magdy4216690@gmail.com or Magdy.Al-Abraq02@eng-st.cu.edu.eg
 
