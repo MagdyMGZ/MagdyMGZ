@@ -10,9 +10,9 @@
 
 <a href=#><img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif" alt="Tech" align="right" width="50%"></a>
 
-> 🔭 I’m currently learning **Digital Design and Digital Verification**
+> 🌱 I’m currently learning **Digital Design and Digital Verification**
 
-> 👥 I’m looking to collaborate on **more Digital Design projects** 🤔
+> 👥 I’m looking to collaborate on **more Digital Design projects** 🔭
 
 > 📫 How to reach me magdy4216690@gmail.com or Magdy.Al-Abraq02@eng-st.cu.edu.eg
 
