@@ -33,6 +33,12 @@
 <code><a href="https://www.cadence.com/en_US/home/tools.html" target="_blank" rel="noreferrer"><img src="cadenceicon.png" alt="cadence" width="40" height="40"/></a></code>
 <code><a href="https://vscode.dev/" target="_blank" rel="noreferrer"><img src="VScode.png" alt="vscode" width="40" height="40"/></a></code>
 <code><a href="https://digilent.com/reference/programmable-logic/guides/vivado-hardware-manager" target="_blank" rel="noreferrer"><img src="FPGA.png" alt="fpga" width="40" height="40"/></a></code>
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magdyahmed&show_icons=true&locale=en&layout=compact" alt="magdyahmed" /></p>
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magdyahmed&show_icons=true&locale=en" alt="magdyahmed" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magdyahmed&" alt="magdyahmed" /></p>
 </details>
   </td>
   </tr>
