@@ -1,6 +1,6 @@
 <div align="center">
   <a href=#>
-  <img src="MAGDY_AHMED.gif" alt="MagdyAhmed" width="75%" >
+  <img src="MAGDY_AHMED.gif" alt="Magdy Ahmed" width="75%" >
     </a>
 </div>
 
