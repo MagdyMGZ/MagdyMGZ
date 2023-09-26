@@ -3,7 +3,27 @@
   <img src="Magdy_Ahmed.gif" alt="Magdy Ahmed" width="75%" >
     </a>
 </div>
+
 <hr>
+
+```cpp
+// about.cpp
+#include <iostream>
+#include <interests.h>
+#include <skills.h>
+#include <tools.h>
+
+int main(){
+  for(auto info : me){
+    std::cout << info << '\n';
+  }
+}
+```
+```sh
+fahd@GitHub:~$ g++ about.cpp -o about.exe
+fahd@GitHub:~$ ./about.exe > ABOUTME.txt
+```
+
 <table><th><h2 align="center">ABOUTME.txt</h2></th>
 <tr><td>
   <h4>Hey <a href=#><img src = "wave.gif" width = 20px></a>, I'm Magdy Ahmed. I'm passionate about Digital Electronics Design and Verification🤖! I'm currently doing my bachelor degree🎓 in Electronics and Electrical Communications Engineering at Faculty of Engineering, Cairo University🏫.</h4>
