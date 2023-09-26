@@ -32,6 +32,7 @@
 <code><a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48672827/57464068-a2a35580-72ae-11e9-9d52-7cadbf0cb940.png" alt="xilinix-vivado" width="40" height="40"/></a></code>
 <code><a href="https://www.cadence.com/en_US/home/tools.html" target="_blank" rel="noreferrer"><img src="cadenceicon.png" alt="cadence" width="40" height="40"/></a></code>
 <code><a href="https://vscode.dev/" target="_blank" rel="noreferrer"><img src="VScode.png" alt="vscode" width="40" height="40"/></a></code>
+<code><a href="https://digilent.com/reference/programmable-logic/guides/vivado-hardware-manager" target="_blank" rel="noreferrer"><img src="FPGA.png" alt="fpga" width="40" height="40"/></a></code>
 </details>
   </td>
   </tr>
