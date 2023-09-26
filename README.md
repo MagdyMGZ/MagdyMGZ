@@ -28,7 +28,7 @@
 <code><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a></code>
 </details>
 <details open><summary><h3 align="left">🔨 Tools / Frameworks / Others:</summary>
-<code><a href="https://eda.sw.siemens.com/en-US/ic/questa/simulation/advanced-simulator/" target="_blank" rel="noreferrer"><img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly93d3cuc3NkYXguY29tL3Nob3cvTWVudG9yX1F1ZXN0YS5wbmc?x-oss-process=image/format,png" alt="questasim" width="40" height="40"/></a></code>
+<code><a href="https://eda.sw.siemens.com/en-US/ic/questa/simulation/advanced-simulator/" target="_blank" rel="noreferrer"><img src="QuestaSim.png" alt="questasim" width="40" height="40"/></a></code>
 <code><a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48672827/57464068-a2a35580-72ae-11e9-9d52-7cadbf0cb940.png" alt="xilinix-vivado" width="40" height="40"/></a></code>
 <code><a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"><img src="cadenceicon.png" alt="cadence" width="40" height="40"/></a></code>
 </details>
