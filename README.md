@@ -14,7 +14,8 @@
 
 > 👥 I’m looking to collaborate on **more Digital Design projects** 🔭
 
-> 📫 How to reach me magdy4216690@gmail.com or Magdy.Al-Abraq02@eng-st.cu.edu.eg
+> 📫 How to reach me magdy4216690@gmail.com 
+or Magdy.Al-Abraq02@eng-st.cu.edu.eg
 
 <details open><summary><h3 align="left">🌐 Connect with me:</h3></summary>
 <code><a href="http://www.linkedin.com/in/magdy-ahmed-eng2002" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magdy-ahmed" height="30" width="40" /></a></code>
