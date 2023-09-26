@@ -38,6 +38,7 @@
 <code><a href="https://www.keysight.com/us/en/lib/resources/demos/discovering-advanced-design-system-ads-1729588.html" target="_blank" rel="noreferrer"><img src="Advanced-Design-System.png" alt="ads" width="40" height="40"/></a></code>
 <code><a href="https://labcenter.s3.amazonaws.com/downloads/Tutorials.pdf" target="_blank" rel="noreferrer"><img src="proteus.png" alt="proteus" width="40" height="40"/></a></code>
 <code><a href="https://www.microsemi.com/document-portal/doc_view/136363-modelsim-me-10-4c-tutorial-for-libero-soc-v11-7" target="_blank" rel="noreferrer"><img src="ModelSim.png" alt="modelsim" width="40" height="40"/></a></code>
+<code><a href="https://neuron.eng.wayne.edu/ECE330/multisim_tutorial.pdf" target="_blank" rel="noreferrer"><img src="multisim.png" alt="multisim" width="40" height="40"/></a></code>
 </details>
   </td>
   </tr>
