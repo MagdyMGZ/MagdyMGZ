@@ -20,8 +20,8 @@ int main(){
 }
 ```
 ```sh
-magdyahmed@GitHub:~$ g++ about.cpp -o about.exe
-magdyahmed@GitHub:~$ ./about.exe > ABOUTME.txt
+magdy@GitHub:~$ g++ about.cpp -o about.exe
+magdy@GitHub:~$ ./about.exe > ABOUTME.txt
 ```
 
 <table><th><h2 align="center">ABOUTME.txt</h2></th>
