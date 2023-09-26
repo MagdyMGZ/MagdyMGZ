@@ -47,7 +47,6 @@
   </tr>
   <tr>
     <td>
-      <a href=#><img src="https://thumbs.gfycat.com/UnripeAdoredGrayreefshark-max-1mb.gif" align="left" width="100"></a>
       <h4 align="right">View Count</h4>
      <a href=#><img src="https://profile-counter.glitch.me/magdyahmed/count.svg" alt="View Count" width="200" align="right"></a>
     </td>
