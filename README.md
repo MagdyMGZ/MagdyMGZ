@@ -39,6 +39,7 @@
 <code><a href="https://labcenter.s3.amazonaws.com/downloads/Tutorials.pdf" target="_blank" rel="noreferrer"><img src="proteus.png" alt="proteus" width="40" height="40"/></a></code>
 <code><a href="https://www.microsemi.com/document-portal/doc_view/136363-modelsim-me-10-4c-tutorial-for-libero-soc-v11-7" target="_blank" rel="noreferrer"><img src="ModelSim.png" alt="modelsim" width="40" height="40"/></a></code>
 <code><a href="https://neuron.eng.wayne.edu/ECE330/multisim_tutorial.pdf" target="_blank" rel="noreferrer"><img src="multisim.png" alt="multisim" width="40" height="40"/></a></code>
+<code><a href="https://www.intel.com/content/www/us/en/docs/programmable/683475/19-4/introduction-to.html" target="_blank" rel="noreferrer"><img src="Quartus-Prime.png" alt="quartus" width="40" height="40"/></a></code>
 </details>
   </td>
   </tr>
