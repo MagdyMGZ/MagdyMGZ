@@ -34,6 +34,7 @@
 <code><a href="https://www.cadence.com/en_US/home/tools.html" target="_blank" rel="noreferrer"><img src="cadenceicon.png" alt="cadence" width="40" height="40"/></a></code>
 <code><a href="https://vscode.dev/" target="_blank" rel="noreferrer"><img src="VScode.png" alt="vscode" width="40" height="40"/></a></code>
 <code><a href="https://digilent.com/reference/programmable-logic/guides/vivado-hardware-manager" target="_blank" rel="noreferrer"><img src="FPGA.png" alt="fpga" width="40" height="40"/></a></code>
+<code><a href="https://projects.eclipse.org/projects/iot.embed-cdt" target="_blank" rel="noreferrer"><img src="eclipse.png" alt="eclipse" width="40" height="40"/></a></code>
 </details>
   </td>
   </tr>
