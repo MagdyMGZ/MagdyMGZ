@@ -35,6 +35,7 @@
 <code><a href="https://vscode.dev/" target="_blank" rel="noreferrer"><img src="VScode.png" alt="vscode" width="40" height="40"/></a></code>
 <code><a href="https://digilent.com/reference/programmable-logic/guides/vivado-hardware-manager" target="_blank" rel="noreferrer"><img src="FPGA.png" alt="fpga" width="40" height="40"/></a></code>
 <code><a href="https://projects.eclipse.org/projects/iot.embed-cdt" target="_blank" rel="noreferrer"><img src="eclipse.png" alt="eclipse" width="40" height="40"/></a></code>
+<code><a href="https://www.keysight.com/us/en/lib/resources/demos/discovering-advanced-design-system-ads-1729588.html" target="_blank" rel="noreferrer"><img src="Advanced-Design-System.png" alt="ads" width="40" height="40"/></a></code>
 </details>
   </td>
   </tr>
