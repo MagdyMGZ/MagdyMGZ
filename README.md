@@ -30,7 +30,7 @@
 <code><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a></code>
 <code><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></code>
 </details>
-<details open><summary><h3 align="left">🔨 Tools / Frameworks / Others:</summary>
+<details open><summary><h3 align="left">🔨 Tools :</summary>
 <code><a href="https://eda.sw.siemens.com/en-US/ic/questa/simulation/advanced-simulator/" target="_blank" rel="noreferrer"><img src="QuestaSim.png" alt="questasim" width="40" height="40"/></a></code>
 <code><a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48672827/57464068-a2a35580-72ae-11e9-9d52-7cadbf0cb940.png" alt="xilinix-vivado" width="40" height="40"/></a></code>
 <code><a href="https://www.cadence.com/en_US/home/tools.html" target="_blank" rel="noreferrer"><img src="cadenceicon.png" alt="cadence" width="40" height="40"/></a></code>
