@@ -19,8 +19,8 @@
 > 📫 How to reach me magdy4216690@gmail.com
 
 <details open><summary><h3 align="left">🌐 Connect with me:</h3></summary>
-<code><a href="http://www.linkedin.com/in/magdy-ahmed-eng2002" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magdy-ahmed" height="30" width="40" /></a></code>
-<code><a href="https://www.facebook.com/magdy.ahmed.54584?mibextid=ZbWKwL" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="magdy-ahmed" height="30" width="40" /></a></code>
+<code><a href="https://www.linkedin.com/in/magdy-ahmed-eng2002/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magdy-ahmed" height="30" width="40" /></a></code>
+<code><a href="https://www.facebook.com/magdy.ahmed.54584" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="magdy-ahmed" height="30" width="40" /></a></code>
 <details open><summary><h3 align="left">💻 Languages:</h3></summary>‍
 <code><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></code>
 <code><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
