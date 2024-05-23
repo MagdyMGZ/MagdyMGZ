@@ -8,7 +8,7 @@
 
 <table><th><h2 align="center">ABOUTME.txt</h2></th>
 <tr><td>
-  <h4>Hey <a href=#><img src = "WAVE.gif" width = 20px></a>, I'm Magdy Ahmed. I'm interested about Digital IC Design and Verification🤖! I'm currently doing my bachelor degree🎓 in Electronics and Electrical Communication Engineering at Faculty of Engineering, Cairo University🏫.</h4>
+  <h4>Hey <a href=#><img src = "WAVE.gif" width = 20px></a>, I'm Magdy Ahmed. I'm interested about Digital Design and Verification🤖! I'm currently doing my bachelor degree🎓 in Electronics and Electrical Communication Engineering at Faculty of Engineering, Cairo University🏫.</h4>
 
 <a href=#><img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif" alt="Tech" align="right" width="50%"></a>
 
