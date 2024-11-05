@@ -12,7 +12,9 @@
 
 <a href=#><img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif" alt="Tech" align="right" width="50%"></a>
 
-> 🌱 I’m currently learning **Digital Design and Digital Verification**
+> 💻 I’m just Finished **Digital Verification internship at Si-Vision in Formal Verification Team**
+
+> 🌱 I’m learning **Digital Design and Digital Verification**
 
 > 👥 I’m looking to collaborate on **more Digital Design and Verification Projects** 🔭
 
