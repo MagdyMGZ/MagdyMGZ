@@ -35,7 +35,7 @@
 <details open><summary><h3 align="left">🔨 Tools:</summary>
 <code><a href="https://eda.sw.siemens.com/en-US/ic/questa/simulation/advanced-simulator/" target="_blank" rel="noreferrer"><img src="QuestaSim.png" alt="questasim" width="40" height="40"/></a></code>
 <code><a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48672827/57464068-a2a35580-72ae-11e9-9d52-7cadbf0cb940.png" alt="xilinix-vivado" width="40" height="40"/></a></code>
-<code><a href="https://i.imgur.com/FUQnZDB.jpg" target="_blank" rel="noreferrer"><img src="vcformal.jpg" alt="cadence" width="40" height="40"/></a></code>
+<code><a href="https://www.synopsys.com/verification/static-and-formal-verification/vc-formal.html" target="_blank" rel="noreferrer"><img src="vcformal.jpg" alt="cadence" width="40" height="40"/></a></code>
 <code><a href="https://www.cadence.com/en_US/home/tools.html" target="_blank" rel="noreferrer"><img src="cadenceicon.png" alt="cadence" width="40" height="40"/></a></code>
 <code><a href="https://vscode.dev/" target="_blank" rel="noreferrer"><img src="VScode.png" alt="vscode" width="40" height="40"/></a></code>
 <code><a href="https://digilent.com/reference/programmable-logic/guides/vivado-hardware-manager" target="_blank" rel="noreferrer"><img src="FPGA.png" alt="fpga" width="40" height="40"/></a></code>
