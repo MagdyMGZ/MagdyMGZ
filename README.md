@@ -18,7 +18,7 @@
 
 > 💻 I’m Finished **Digital Verification internship at Si-Vision in Formal Verification Team**
 
-> 🌱 I’m learning **Digital Design and Digital Verification**
+> 🌱 I’m **Digital Design and Digital Verification** Enthusiast
 
 > 👥 I’m looking to collaborate on **more Digital Design and Verification Projects** 🔭
 
