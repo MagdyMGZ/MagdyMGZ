@@ -12,6 +12,8 @@
 
 <a href=#><img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif" alt="Tech" align="right" width="50%"></a>
 
+> 💻 Our digital verification paper, “Bridging Formal and Dynamic Verification: A Unified Methodology for Design Verification,” has officially been published: https://ieeexplore.ieee.org/document/11270540
+
 > 💻 I’m Finished **Digital Implementation internship at ICpedia**
 
 > 💻 I’m Finished **Graduation Project at Siemens**
