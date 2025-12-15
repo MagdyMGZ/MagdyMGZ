@@ -24,7 +24,7 @@
 
 > 👥 I’m looking to collaborate on **more Digital Design and Verification Projects** 🔭
 
-> 📫 How to reach me magdy4216690@gmail.com
+> 📫 How to reach me magdy4216690@gmail.com | https://linktr.ee/MagdyMGZ
 
 <details open><summary><h3 align="left">🌐 Connect with me:</h3></summary>
 <code><a href="https://www.linkedin.com/in/magdy-ahmed-eng2002/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magdy-ahmed" height="30" width="40" /></a></code>
